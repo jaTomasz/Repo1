@@ -1,0 +1,14 @@
+On branch master
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	nowy plik:     .gitignore
+	nowy plik:     moj_program.c
+	nowy plik:     readme
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+Sledzone sa trzy pliki wypisane powyzej, poniewaz po zignorowaniu wszystkich rozszerzen .txt zostaly tylko one w katalogu, w ktorym wywolalem komende dodania do sledzenia.
